@@ -1,0 +1,9 @@
+[theme]
+base="light"
+primaryColor="#1266ad"
+secondaryBackgroundColor="#e6c93a"
+textColor="#1266ad"
+
+[connections.gsheets]
+spreadsheet = "https://docs.google.com/spreadsheets/d/1vxtg2Sen2fDgbsmh0tysX9fN5FJtIeIRAusT0l9WaOQ/edit"
+
